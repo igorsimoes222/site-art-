@@ -1,0 +1,17 @@
+h2{
+font-size: 1.5em;
+text-align: center;
+border: 2px solid black;
+border-radius: 100px;
+background-color:  whitesmoke;
+}
+.baixa{
+font-size: 1.1em;
+ text-align: center;
+ text-decoration: underline;
+ 
+}
+.tudo{
+ width: 88%;
+ height: 880%;
+}
